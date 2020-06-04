@@ -1,14 +1,14 @@
 # CS50-PSET7-Houses
 My solution for CS50x2020 problem set 7 - houses.
 
-# import.py
+## import.py
 Takes a CSV file containing a list of students' names, school houses and birth years, and import it into a SQLite database. Splits names into separate first, middle and last columns in the database.
 
 Usage example:
 
 python import.py characters.csv
 
-# roster.py
+## roster.py
 Prints a list of all students in a given house in alphabetical order by last name.
 
 Example usage:
