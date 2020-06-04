@@ -13,9 +13,9 @@ Prints a list of all students in a given house in alphabetical order by last nam
 
 Example usage:
 
-python roster.py Gryffindor
-Hermione Jean Granger, born 1979
-Harry James Potter, born 1980
-Ginevra Molly Weasley, born 1981
-Ronald Bilius Weasley, born 1980
+python roster.py Gryffindor  
+Hermione Jean Granger, born 1979  
+Harry James Potter, born 1980  
+Ginevra Molly Weasley, born 1981  
+Ronald Bilius Weasley, born 1980  
 ...
